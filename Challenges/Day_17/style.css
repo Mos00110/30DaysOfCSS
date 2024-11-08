@@ -1,5 +1,5 @@
 body {
-  background: pink;
+  background: rgb(255, 252, 63);
 }
 
 input {
@@ -31,7 +31,7 @@ input {
 }
 
 .btn {
-  background: #101E53;
+  background: purple;
   font-size: 10px;
 
   display: grid;
